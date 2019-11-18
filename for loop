@@ -1,0 +1,10 @@
+public class MyClass {
+  public static void main(String{} args) {
+    int sum=0;
+    for(int controller = 1; controller < 101 ; controller++) {
+      sum = controller + sum;
+    }
+    System.out.println(sum);
+    
+  }
+}
